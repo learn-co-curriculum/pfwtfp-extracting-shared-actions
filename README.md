@@ -1,15 +1,23 @@
-# Title
+# Extracting Shared Actions
 
 ## Objectives
 
--SWBAT 1
--SWBAT 2
+- Code Along,Interpret existing functions to derive purpose
+- Modify expressions and statements while maintaining functionality
+- Recognize how refactoring code improves reusability
+- Separate out reoccurring expression or actions
 
-#### Introduction
+## Introduction
 
-#### SWBAT 1
+- Walkthrough examples of larger methods that could be restructured into multiple ‘helper’ methods
 
-#### SWBAT 2
+### Code Along,Interpret existing functions to derive purpose
+
+### Modify expressions and statements while maintaining functionality
+
+### Recognize how refactoring code improves reusability
+
+### Separate out reoccurring expression or actions
 
 ## Conclusion
 
